@@ -24,9 +24,10 @@
 
 1.  npm输入：live-server
 2.  本地直接使用谷歌浏览器或edge打开,首页是main.html
-3.  进入[GitHub展示页面](https://borisfwyy.github.io/TailwindCss.github.io/main.html)
+3.  进入[GitHub展示页面](https://borisfwyy.github.io/TailwindCss.github.io/index.html)
 
 #### 参与贡献
 
 1. 页面设计灵感来自[天华建筑设计公司官网](https://www.thape.com/)的大佬作品
 2. 创新实践班大佬帮忙
+
